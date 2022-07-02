@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @vinciob
-- 👀 I’m interested in Web Developer and Blockchain technology
-- 🌱 I’m an expert of Wordpress CMS
-- 🌱 I’m currently learning Node js, React and Next.js
-
+- 🌱 I’m a Front-end Developer (React)
 
 <!--- - 📫 How to reach me --->
 
