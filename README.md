@@ -1,39 +1,58 @@
 # Hi, I'm Vincenzo 👋
 
-Frontend Developer with nearly a decade of experience, working as a Full Stack Developer over the past 4 years.
+Frontend Developer with nearly a decade of experience, working as a Full Stack Developer over the past four years. I build scalable web applications, APIs, and digital platforms with a strong focus on performance, maintainability, and clean architecture.
 
-I specialize in building scalable web platforms using modern JavaScript ecosystems and cloud infrastructure.
+My career started in 2014 working primarily on frontend development. Over time I expanded into backend development, cloud infrastructure, and system architecture, allowing me to contribute across the entire software stack.
 
-## 🚀 Current Project
+## 💻 What I do
 
-I'm currently developing a multi-vendor marketplace platform for artisanal food products.
+I design and develop modern web platforms, working on:
 
-Architecture:
+- Scalable **frontend applications**
+- **Backend APIs** and microservices
+- **Cloud deployments**
+- Data-driven platforms and integrations
 
-• Storefront: Next.js + Tailwind  
-• Backoffice: React + Redux + Shadcn + Tailwind  
-• Backend: Node.js + Fastify + Zod  
-
-The platform is designed with a modular architecture and focuses on scalability, clean APIs, and maintainable code.
-
-## 🧠 Development Approach
-
-I integrate AI-assisted development tools such as **OpenAI Codex and Claude Code** into my workflow while maintaining full manual review of every change to ensure architectural control and code quality.
+I have experience across several industries including **e-commerce, fintech, and energy**, working on complex platforms that required both frontend performance and robust backend systems.
 
 ## 🛠 Tech Stack
 
-Frontend  
-React • Next.js • Redux • Tailwind • Shadcn
+### Frontend
+React  
+Next.js  
+Redux Toolkit
+Zustand
+TailwindCSS
 
-Backend  
-Node.js • Fastify • Express • Django REST
+### Backend
+Node.js  
+Fastify  
+Express  
+FastAPI
+Django REST Framework
 
-Databases  
-MongoDB • PostgreSQL • InfluxDB
+### Databases
+MongoDB  
+PostgreSQL
+MySql
+InfluxDB
 
-Cloud  
-AWS • Azure
+### Cloud & Infrastructure
+AWS  
+Azure  
+Docker
+
+### Mobile
+React Native 
+Expo
+
+## 🧠 Development Philosophy
+
+I focus on writing **clean, maintainable, and scalable code**, prioritizing strong architecture and long-term project sustainability.
+
+Recently I have been integrating **AI-assisted development tools** such as Codex and Claude into my workflow. These tools help accelerate development while I maintain full control over architecture and code quality by carefully reviewing and validating every change.
+
 
 ## 📫 Contact
 
-LinkedIn: (https://www.linkedin.com/in/brascavincenzo/)
+LinkedIn: https://www.linkedin.com/in/brascavincenzo/
