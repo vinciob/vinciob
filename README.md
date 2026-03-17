@@ -18,33 +18,33 @@ I have experience across several industries including **e-commerce, fintech, and
 ## 🛠 Tech Stack
 
 ### Frontend
-React  
-Next.js  
-Redux Toolkit
-Zustand
-TailwindCSS
+- React  
+- Next.js  
+- Redux Toolkit  
+- Zustand  
+- Tailwind CSS  
 
 ### Backend
-Node.js  
-Fastify  
-Express  
-FastAPI
-Django REST Framework
+- Node.js  
+- Fastify  
+- Express  
+- FastAPI
+- Django REST Framework
 
 ### Databases
-MongoDB  
-PostgreSQL
-MySql
-InfluxDB
+- MongoDB  
+- PostgreSQL  
+- MySql  
+- InfluxDB  
 
 ### Cloud & Infrastructure
-AWS  
-Azure  
-Docker
+- AWS  
+- Azure  
+- Docker
 
 ### Mobile
-React Native 
-Expo
+- React Native
+- Expo
 
 ## 🧠 Development Philosophy
 
